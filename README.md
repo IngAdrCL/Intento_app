@@ -12,15 +12,24 @@ Mecánicas del juego
 5. Si un enemigo te toca, pierdes vida.
 6. Cuando encuentras 5 baterías, desbloqueas la salida.
 7. Si tu vida llega a cero, pierdes.
-Lo que vas a programar
-Concepto	Aplicación
-Variables	Vida, energía y puntuación
-Condicionales	Detectar victorias y derrotas
-Bucles	Mantener el juego funcionando
-Funciones	Movimiento, colisiones y eventos
-Clases	Jugador, enemigos y baterías
-Listas	Guardar enemigos y objetos
-Pygame	Gráficos, sonidos y controles
+
+### Lo que vas a programar:
+
+Concepto	| Aplicación
+
+Variables |	Vida, energía y puntuación
+
+Condicionales	| Detectar victorias y derrotas
+
+Bucles	| Mantener el juego funcionando
+
+Funciones |	Movimiento, colisiones y eventos
+
+Clases	| Jugador, enemigos y baterías
+
+Listas	| Guardar enemigos y objetos
+
+Pygame	| Gráficos, sonidos y controles
 
 # Estructura del proyecto
 
